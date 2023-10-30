@@ -6,12 +6,6 @@
 
 ![openweather](https://user-images.githubusercontent.com/70565731/170437515-73bcee6a-ca4a-4278-b4d1-a47f74ec2301.jpg)
 
-## **📽️ Demo**
-
-
-
-
-https://user-images.githubusercontent.com/70565731/170437730-ee959f87-7a77-490d-bb1a-e256b4889f8f.mp4
 
 
 
